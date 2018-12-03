@@ -1,0 +1,466 @@
+GET http://192.168.1.2:8000/models/1
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+<> 2018-12-01T015742.404.html
+
+###
+
+GET http://192.168.1.2:8000/models/
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+<> 2018-12-01T015739.404.html
+
+###
+
+GET http://192.168.1.2:8000/models/
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+<> 2018-12-01T015737.404.html
+
+###
+
+GET http://192.168.1.2:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+<> 2018-12-01T015735.404.html
+
+###
+
+GET http://192.168.1.2:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+<> 2018-12-01T015734.404.html
+
+###
+
+GET http://192.168.1.2:8000/models/1
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+<> 2018-12-01T015724.404.html
+
+###
+
+GET http://127.0.0.1:8000/models/1
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/models/1
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/models/1
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/models/1
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+POST http://127.0.0.1:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+POST http://127.0.0.1:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+POST http://127.0.0.1:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/models
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+GET http://127.0.0.1:8000/phone/
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+###
+
+POST http://127.0.0.1:8000/phone/
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+<> 2018-11-29T080339.200.json
+
+###
+
+POST http://127.0.0.1:8000/phone
+Accept: */*
+Cache-Control: no-cache
+
+ {         "name": "mohammad",         "tel": "2910",         "img": 56     }
+
+<> 2018-11-29T080150.500.html
+
+###
+
+GET http://127.0.0.1:8000/phone
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-29T075638.200.json
+
+###
+
+GET http://127.0.0.1:8000/phone
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+###
+
+GET http://127.0.0.1:8000/library/books/12
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094125.500.txt
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/12
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094100.404.html
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/12
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094040-1.404.html
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/12
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094040.404.html
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/12
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094038.404.html
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094028.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094007-2.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094007-1.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094007.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094006.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094001-1.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094001.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T094000.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093959.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdfsdff/sdfsd
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093950.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093948-1.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093948.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddssdfs/sdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093947.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddsfsdfsdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093944.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddsfsdfsdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093943-4.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddsfsdfsdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093943-3.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddsfsdfsdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093943-2.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddsfsdfsdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093943-1.200.json
+
+###
+
+GET http://127.0.0.1:8000/library/books/dsfdfdsddsfsdfsdfsdf
+Accept: */*
+Cache-Control: no-cache
+
+ {  "id_azo" : "20" ,"nameFamil" : "aomar" ,"tel" : "0912"     }
+
+<> 2018-11-27T093943.200.json
+
+###
+
